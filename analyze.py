@@ -127,7 +127,7 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
 #   git add .
 #   git commit -m "Students analysis"
 #   git branch -M main
-#   git remote add origin <посилання_на_ваш_репозиторій>
+#   git remote add origin <https://github.com/amnevaa/Shevchenko_practice_7_final.git>
 #   git push -u origin main
 #
 # 3) Оновіть сторінку репозиторію на GitHub і переконайтеся, що там
